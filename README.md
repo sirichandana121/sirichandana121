@@ -2,7 +2,11 @@
 <h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
- <img width="1024" height="598" alt="Java Full Stack Developer" src="YOUR_IMAGE_LINK_HERE" />
+  <img width="1024" height="598" 
+       alt="Java Full Stack Developer Banner" 
+       
+ <img width="1274" height="494" alt="image" src="https://github.com/user-attachments/assets/0ef9021d-9d01-4869-b334-9f143f1592da" />
+
 </p>
 
 ---
@@ -10,10 +14,10 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science Engineering — *Vikas Group of Institutions (2025)*
-- 💼 Java Full Stack Intern at *ExceLR*
-- 💻 Java Full Stack Developer with hands-on project experience
-- 🌱 Currently strengthening skills in *Spring Boot, REST APIs & React*
-- 🤝 Strong interest in building scalable and responsive web applications
+- 💼 Java Full Stack Intern at *ExceLR* (June 2025 – Dec 2025)
+- 💻 Recent Graduate **Java Full Stack Developer**
+- 🌱 Currently enhancing skills in *Spring Boot, REST APIs & React*
+- 🤝 Motivated learner with strong problem-solving and teamwork skills
 
 ---
 
@@ -38,30 +42,29 @@
 ### 🌿 Flora Harbor – E-commerce Plant Website  
 *March 2025*
 
-- Developed a responsive e-commerce plant marketplace using *React.js*
+- Built a **responsive e-commerce plant marketplace** using *React.js*
 - Implemented dynamic product listings, category-based navigation, search, pagination, and reusable components
-- Integrated frontend with backend services to deliver a scalable and maintainable application
+- Integrated frontend with backend services for a scalable and maintainable solution
 - Focused on smooth user experience and responsive UI design
 
-🔗 *GitHub Repository:*  
-https://github.com/sirichandana121
+---
+
+### 📈 Bitcoin Price Prediction  
+*April 2025*
+
+- Developed a **Streamlit-based machine learning application**
+- Used *Random Forest Regression* to predict Bitcoin prices from historical data
+- Implemented real-time prediction, trend visualization, and performance dashboards
+- Improved model accuracy by **12%** using feature engineering and hyperparameter tuning
 
 ---
 
-### 📈 Bitcoin Price Prediction (Machine Learning)
+### 🏠 House Price Prediction  
+*April 2025*
 
-- Developed a *Streamlit-based ML application* using Random Forest Regression
-- Predicted Bitcoin prices using historical data
-- Implemented real-time prediction, trend visualization, and model performance dashboards
-- Improved prediction accuracy through feature engineering and hyperparameter tuning
-
----
-
-### 📊 Pizza Sales Report (Data Analysis)
-
-- Built a Streamlit-based analytical dashboard
-- Displayed sales insights and trends using interactive visualizations
-- Integrated backend logic with frontend UI for real-time data analysis
+- Built a Streamlit-based web application to predict house prices
+- Integrated trained ML models for real-time price estimation
+- Designed interactive frontend for user-friendly predictions
 
 ---
 
@@ -80,15 +83,14 @@ https://github.com/sirichandana121
 ![Redux](https://skillicons.dev/icons?i=redux)
 
 ### ⚙ Backend & Frameworks
-![Spring](https://skillicons.dev/icons?i=spring)
-![REST](https://skillicons.dev/icons?i=postman)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![REST API](https://skillicons.dev/icons?i=postman)
 
 ### 🧰 Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
-![Postman](https://skillicons.dev/icons?i=postman)
 ![Streamlit](https://skillicons.dev/icons?i=python)
 
 ---
@@ -127,4 +129,4 @@ https://github.com/sirichandana121
 
 > 💡 "First, solve the problem. Then, write the code." – John Johnson
 
-⭐ *Thank you for visiting my profile!*
+⭐ *Thank you for visiting my GitHub profile!*
